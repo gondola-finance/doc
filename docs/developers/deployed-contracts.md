@@ -24,8 +24,8 @@
 
 | Name          | Address                                    |
 |---------------|--------------------------------------------|
-| MathUtils     | [0xc524B8485091f731497eB667Bb6F36F0C4bfc15B]((https://cchain.explorer.avax.network/address/0xc524B8485091f731497eB667Bb6F36F0C4bfc15B/)) |
-| Swap          | [0xD267156Fb40bCEcD81902de0D68290713ad7706B]((https://cchain.explorer.avax.network/address/0xD267156Fb40bCEcD81902de0D68290713ad7706B/)) |
-| SwapDeployer  | [0x0F101F987b4ce03Cc160615d0EC6D888B3A40Fdd]((https://cchain.explorer.avax.network/address/0x0F101F987b4ce03Cc160615d0EC6D888B3A40Fdd/)) |
-| SwapFlashLoan | [0x485D73A2062A5b30D4bA0e35A179E874E4F92d76]((https://cchain.explorer.avax.network/address/0x485D73A2062A5b30D4bA0e35A179E874E4F92d76/)) |
-| SwapUtils     | [0x01274B6B06450FDbbB6F3F2885C2d56506fA1C16]((https://cchain.explorer.avax.network/address/0x01274B6B06450FDbbB6F3F2885C2d56506fA1C16/)) |
+| MathUtils     | [0xc524B8485091f731497eB667Bb6F36F0C4bfc15B](https://cchain.explorer.avax.network/address/0xc524B8485091f731497eB667Bb6F36F0C4bfc15B/) |
+| Swap          | [0xD267156Fb40bCEcD81902de0D68290713ad7706B](https://cchain.explorer.avax.network/address/0xD267156Fb40bCEcD81902de0D68290713ad7706B/) |
+| SwapDeployer  | [0x0F101F987b4ce03Cc160615d0EC6D888B3A40Fdd](https://cchain.explorer.avax.network/address/0x0F101F987b4ce03Cc160615d0EC6D888B3A40Fdd/) |
+| SwapFlashLoan | [0x485D73A2062A5b30D4bA0e35A179E874E4F92d76](https://cchain.explorer.avax.network/address/0x485D73A2062A5b30D4bA0e35A179E874E4F92d76/) |
+| SwapUtils     | [0x01274B6B06450FDbbB6F3F2885C2d56506fA1C16](https://cchain.explorer.avax.network/address/0x01274B6B06450FDbbB6F3F2885C2d56506fA1C16/) |

@@ -3,7 +3,7 @@ module.exports = {
   title: "Gondola Finance",
   tagline: "Connect any asset on Avalanche",
   url: "https://gondola-finance.github.io/",
-  baseUrl: "/gondola-doc/",
+  baseUrl: "/doc/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
