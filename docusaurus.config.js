@@ -1,20 +1,20 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Gondola.finance',
+  tagline: 'Connect any asset on Avalanche',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/gondola-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'gondola-finance', // Usually your GitHub org/user name.
+  projectName: 'gondola-doc', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Gondola.finance',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Gondola.finance Logo',
+        src: 'img/logo.webp',
       },
       items: [
         {
@@ -41,22 +41,23 @@ module.exports = {
               label: 'Getting started',
               to: '/docs/getting-started/introduction',
             },
+            {
+              label: 'Developers',
+              to: '/docs/developers/introduction',
+            },
           ],
         },
+  
         {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/7yf87Afh',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/gondola_finance',
             },
           ],
         },
@@ -64,12 +65,16 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Website',
+              href: 'https://gondola.finance'
+            },
+            {
+              label: 'Medium',
+              href: 'https://gondola-finance.medium.com/'
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/gondola-finance',
             },
           ],
         },
@@ -85,13 +90,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/gondola-finance/gondola-doc',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
