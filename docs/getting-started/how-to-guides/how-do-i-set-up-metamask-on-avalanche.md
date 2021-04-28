@@ -1,6 +1,3 @@
-
-
-
 # How do I set up MetaMask on Avalanche?
 
 ## Connect Metamask
