@@ -1,8 +1,8 @@
 # Introduction
 
-Gondola finance is a fork of Saddle, focus on connecting assets on Avalanche.  We will begin with [Zero Exchange](https://www.0.exchange/)’s z-token first, then expand our service to other platforms (e.g. Anyswap).  Our goal is to enablesmooth asset transfer between fragmented liquidities via stableswap.
+Gondola finance is a fork of Saddle, focus on connecting assets on Avalanche.  We will begin with [Zero Exchange](https://www.0.exchange/)’s z-token, then expand our service to other platforms.  Our goal is to enable smooth asset transfer between fragmented liquidities via stableswap.
 
-Our  philosophy  is  that  we  should  only add relevant tokens that  actually  provides  value  to  our users. Bridging z-tokens to native tokens in Avalanche C-chain allows more seamless asset transfer between Zeroand Avalanche as of today.  Each asset that we plan to support should serve a unique proposition.With that in mind, tokens to be supported at launch:
+Our  philosophy  is  that  we  should  only add relevant tokens that  actually  provides  value  to  our users. Bridging z-tokens to native tokens in Avalanche C-chain allows more seamless asset transfer between Zero and Avalanche as of today. Each asset that we plan to support should serve a unique proposition. With that in mind, tokens to be supported at launch:
 
 - ETH, zETH
 - USDT, zUSDT
