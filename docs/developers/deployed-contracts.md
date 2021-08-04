@@ -12,6 +12,18 @@
 
 | Name                   | Address                                    |
 |------------------------|--------------------------------------------|
+| GondolaWBTCePool       | [0x0792ca636c917177AB534BD2D86aDa5535D97369](https://cchain.explorer.avax.network/address/0x0792ca636c917177AB534BD2D86aDa5535D97369/) |
+| GondolaWBTCePoolLPToken| [0x5CC6Ca58Ae2c07b54B732fbAEE046176cbe743BC](https://cchain.explorer.avax.network/address/0x5CC6Ca58Ae2c07b54B732fbAEE046176cbe743BC/) |
+| GondolaWETHePool       | [0x7408DE8334C03321AFFF953F1318d0B04cdF2601](https://cchain.explorer.avax.network/address/0x7408DE8334C03321AFFF953F1318d0B04cdF2601/) |
+| GondolaWETHePoolLPToken| [0xa5AbEeA9f5fb7850038e91aeb5F3f5ffdeeDF7B7](https://cchain.explorer.avax.network/address/0xa5AbEeA9f5fb7850038e91aeb5F3f5ffdeeDF7B7/) |
+| GondolaUSDTePool       | [0xAE5a60BB105e38A4986017A711c6A6CC1D1a0f36](https://cchain.explorer.avax.network/address/0xAE5a60BB105e38A4986017A711c6A6CC1D1a0f36/) |
+| GondolaUSDTePoolLPToken| [0x56dF40732eC09bd9BEA6B3eb73E48E00D2c537AB](https://cchain.explorer.avax.network/address/0x56dF40732eC09bd9BEA6B3eb73E48E00D2c537AB/) |
+| GondolaDAIePool        | [0x159E2fE53E415B163bC5846DD70DDD2BC8d8F018](https://cchain.explorer.avax.network/address/0x159E2fE53E415B163bC5846DD70DDD2BC8d8F018/) |
+| GondolaDAIePoolLPToken | [0xF2fC2836882bCf7eb00Feb05729a248106fBfDdE](https://cchain.explorer.avax.network/address/0xF2fC2836882bCf7eb00Feb05729a248106fBfDdE/) |
+| GondolaDAIeUSDTePool        | [0xCF97190fAAfea63523055eBd139c008cdb4468eB](https://cchain.explorer.avax.network/address/0xCF97190fAAfea63523055eBd139c008cdb4468eB/) |
+| GondolaDAIeUSDTePoolLPToken | [0xD7D4a4c67E9C1f5a913Bc38E87e228f4B8820e8A](https://cchain.explorer.avax.network/address/0xD7D4a4c67E9C1f5a913Bc38E87e228f4B8820e8A/) |
+| GondolaDAIUSDTPool        | [0x8ce4d6749684aEe27d7f75cff18fa9A4cC8Fe9b3](https://cchain.explorer.avax.network/address/0x8ce4d6749684aEe27d7f75cff18fa9A4cC8Fe9b3/) |
+| GondolaDAIUSDTPoolLPToken | [0x4b9C05D3E6cD5D2F19D1c7ee9a7efe847f347770](https://cchain.explorer.avax.network/address/0x4b9C05D3E6cD5D2F19D1c7ee9a7efe847f347770/) |
 | GondolaDAIPool         | [0x9D43f28C5Fce24D0c8B653E5c5859E0421Af7783](https://cchain.explorer.avax.network/address/0x9D43f28C5Fce24D0c8B653E5c5859E0421Af7783/) |
 | GondolaDAIPoolLPToken  | [0x2036C0EB5C42eF7f1ca06dF57D07F79eb3a2e0C8](https://cchain.explorer.avax.network/address/0x2036C0EB5C42eF7f1ca06dF57D07F79eb3a2e0C8/) |
 | GondolaETHPool         | [0xed986f982269e0319F710EC270875dE2b2A443d2](https://cchain.explorer.avax.network/address/0xed986f982269e0319F710EC270875dE2b2A443d2/) |

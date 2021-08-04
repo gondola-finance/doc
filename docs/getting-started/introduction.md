@@ -15,11 +15,11 @@ This section summarizes the tokenomics for Gondola Finance.
 - Token symbol: GDL
 - Total supply: 500 million
 
-## Alocation
+## Allocation
 
-500M token will be minted.  300M (60%) will be distributed through liquidity mining, 100M (20%) asecosystem reserve, 50M (10%) as developer fund, 25M (5%) for airdrop and 25M (5%) for marketing.
+500M token will be minted.  300M (60%) will be distributed through liquidity mining, 100M (20%) as ecosystem reserve, 50M (10%) as developer fund, 25M (5%) for airdrop and 25M (5%) for marketing.
 
-Details of airdrop will be announced later.  Developer fund will be locked for 6 months.  Ecosystem reservecan be used discretionary by governance token holders after governance is enabled
+Details of airdrop will be announced later.  Developer fund will be locked for 6 months.  Ecosystem reserve can be used discretionary by governance token holders after governance is enabled
 
 ##  Schedule
 
@@ -27,9 +27,17 @@ The liquidity mining has a declining schedule with 2 halvings.  The first 100 mi
 
 ## Mining Pools
 
-- 20% for GondolaGDL Staking
-- 20% for Gondola zETH-ETH pool
-- 10% for Gondola zUSDT-USDT pool
-- 10% for Gondola zDAI-DAI pool
-- 20% for Pangolin AVAX-GDL LPs
-- 20% for Zero ZERO-GDL LPs
+- 20% for Gondola GDL Staking
+- 30% for Pangolin AVAX-GDL pool
+- 30% for Zero ZERO-GDL pool
+- 5% for Gondola ETH-WETH.e pool (new)
+- 3% for Gondola WBTC-WBTC.e pool (new)
+- 5% for Gondola USDT-USDT.e pool (new)
+- 2% for Gondola DAI-DAI.e pool (new)
+- 2% for Gondola DAI.e-USDT.e pool (new)
+- 1% for Gondola zETH-ETH pool
+- 1% for Gondola zUSDT-USDT pool
+- 1% for Gondola renBtc-WBTC pool
+
+## Staking Pools
+Coming soon...
