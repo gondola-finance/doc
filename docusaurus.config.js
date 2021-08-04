@@ -1,3 +1,6 @@
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "Gondola Finance",
@@ -12,11 +15,16 @@ module.exports = {
     themeConfig: {
       colorMode: {
         // "light" | "dark"
-        defaultMode: "light",
-  
+        defaultMode: "dark",
+        respectPrefersColorScheme: true,
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
-        disableSwitch: true,
+        //disableSwitch: true,
+        
+      },
+      prism: {
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
       },
       navbar: {
         title: "Gondola Finance",
