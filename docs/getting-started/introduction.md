@@ -25,19 +25,42 @@ Details of airdrop will be announced later.  Developer fund will be locked for 6
 
 The liquidity mining has a declining schedule with 2 halvings.  The first 100 million to be distributed in 2 months, next 100 million in 4 months, then last 100 million in 8 months
 
+## Road Map
+### Quarter 3 2021
+
+- xGdl Launch.
+
+- User Interface Update
+
+- Weekly Community activities
+
+### QUARTER 4 2021
+
+- Enhance multi-chain strategy
+
+- Community Votings
+
+- Fee Distribution for xGDL
+
+- Gondola Lending via stable tokens
+
+- Transition to DAO
+
+## Multisig Wallet
+
+The ownership of the MasterChefProxy contract and the funds were transferred our multisig wallet.
+- Signers: @avalancheskier, @rogerlu, @whisi, @dan_gondola. 
+- Wallet Address: 0xcc142A6484420edAA469110DB55F427fAb32bDAB
+
+
 ## Mining Pools
 
-- 20% for Gondola GDL Staking
-- 30% for Pangolin AVAX-GDL pool
-- 30% for Zero ZERO-GDL pool
-- 5% for Gondola ETH-WETH.e pool (new)
-- 3% for Gondola WBTC-WBTC.e pool (new)
-- 5% for Gondola USDT-USDT.e pool (new)
-- 2% for Gondola DAI-DAI.e pool (new)
-- 2% for Gondola DAI.e-USDT.e pool (new)
-- 1% for Gondola zETH-ETH pool
-- 1% for Gondola zUSDT-USDT pool
-- 1% for Gondola renBtc-WBTC pool
+- 50% for Pangolin AVAX-GDL pool
+- 30% for Gondola GDL Staking
+- 5% for USDT.e - USDC.e Pool
+- 5% for USDT.e - DAI.e Pool
+- 5% for USDT.e - TSD Pool
+- 5% for TBD (new partnership pool )
 
 ## Staking Pools
 Coming soon...

@@ -2,7 +2,7 @@
 
   getting_started: [
     "getting-started/introduction",
-    "getting-started/faq",
+    "getting-started/risk",
     {
       type: 'category',
       label: 'How to guides',
