@@ -9,7 +9,7 @@ module.exports = {
   baseUrl: "/doc/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/colour.png",
   organizationName: "gondola-finance", // Usually your GitHub org/user name.
   projectName: "doc", // Usually your repo name.
     themeConfig: {
@@ -30,7 +30,7 @@ module.exports = {
         title: "Gondola Finance",
         logo: {
           alt: "Gondola.finance Logo",
-          src: "img/logo.webp",
+          src: "img/colour.png",
         },
         items: [
           {

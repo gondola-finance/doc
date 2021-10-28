@@ -13,6 +13,7 @@
         } 
       ] 
     },
+    "getting-started/xGDL"
   ],
   developers: [
     "developers/introduction",

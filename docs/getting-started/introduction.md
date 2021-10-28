@@ -60,7 +60,4 @@ The ownership of the MasterChefProxy contract and the funds were transferred our
 - 5% for USDT.e - USDC.e Pool
 - 5% for USDT.e - DAI.e Pool
 - 5% for USDT.e - TSD Pool
-- 5% for TBD (new partnership pool )
-
-## Staking Pools
-Coming soon...
+- 5% for mYAK - YAK Pool
