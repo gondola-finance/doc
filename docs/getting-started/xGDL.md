@@ -13,14 +13,18 @@ The main goal of the xGDL pool is  to incentivize  our community with a juicy fu
 
 ## Q&A
 Q: Why buybacks manually?
+
 A: Our contracts have different logic from Sushiswap. The SushiMaker contract is not compatible for us. We have to collect the transaction fees manually. A detailed report of weekly buybacks and fees collected will be released weekly.
 
-Q: What is the differences between staking GDL and hold xGDL?
+Q: What is the differences between staking GDL and xGDL?
+
 A: The reward of single staking GDL comes from our MasterChef contract. It will be decreased because of the halving of GDL or the TVL increase.
 The reward of xGDL comes from the incentive funds and the transaction fees collected. It will be increase with the growth of the Avalanche ecosystems with more transactions is done on our dApp.
 
 Q: After the end of the incentive program?
+
 A: xGDL holders have the higher priority for the voting coming in the furture, and the incentive funds collected by our partnership will be deposited to the xGDL contract to incentize the xGDL holders.
 
 Q: Any xGDL airdrop for loyal GDL holder?
+
 A: No. It will be a fair launch. However, the price of GDL will be guaranteed to pump because of the incentize program.
